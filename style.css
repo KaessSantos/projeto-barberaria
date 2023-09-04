@@ -159,6 +159,19 @@ i {
     font-size: 14px;
   }
 }
+@media screen and (max-width: 380px) {
+  .hero {
+    min-height: 50vh;
+  }
+  .hero h1 {
+    font-size: 20px;
+    padding: 0 14px;
+    width: 100%;
+  }
+  .hero p {
+    font-size: 14px;
+  }
+}
 .about {
   background-color: #06121e;
   overflow: hidden;

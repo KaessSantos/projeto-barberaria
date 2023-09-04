@@ -1,7 +1,6 @@
 # projeto-barberaria
  projeto feito com html css e  Apis de animações 
  
- <h1 align="center">Projeto com bastante logica</h1>
  <h2 align="center">Programador Front-End</h2>
  #<a href="https://kaesssantos.github.io/projeto-barberaria/">Projeto</a>
 
